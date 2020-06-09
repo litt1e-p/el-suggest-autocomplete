@@ -14,8 +14,8 @@ npm i element-ui
 ```js
 npm i el-suggest-autocomplete
 ```
-and import the lib globally or use as vue component
+and import the lib globally or use as vue component, and do not forget the css
 
 # screenshots
 
-![](./screenshots/screenshot.png)
+![](https://github.com/litt1e-p/el-suggest-autocomplete/raw/master/screenshots/screenshot.png)
