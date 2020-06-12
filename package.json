@@ -1,6 +1,6 @@
 {
   "name": "el-suggest-autocomplete",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "suggestions grouped vue component for element-ui input-autocomplete",
   "config": {
     "libName": "el-suggest-autocomplete"
