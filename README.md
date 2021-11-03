@@ -1,6 +1,6 @@
 # el-suggest-autocomplete
 
-suggestions grouped vue component for element-ui input-autocomplete
+suggestions grouped vue2.x component for element-ui input-autocomplete
 
 # requirement
 
